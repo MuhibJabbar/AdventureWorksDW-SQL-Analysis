@@ -1,5 +1,7 @@
 # AdventureWorksDW2022 Sales Analytics
 
+## SQL Server | T-SQL | Data Warehouse
+
 ## Project Overview
 
 This project analyses the AdventureWorksDW2022 data warehouse using
@@ -105,7 +107,7 @@ Completed:
 
 - [x] Database Exploration
 - [x] Data Profiling
-- [ ] Relationships & JOINs
+- [x] Relationships & JOINs
 - [ ] Sales Analysis
 - [ ] Customer Analysis
 - [ ] Product Analysis
