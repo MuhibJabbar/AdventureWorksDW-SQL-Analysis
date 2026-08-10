@@ -69,7 +69,14 @@ Initial profiling of the Internet Sales dataset, including:
 
 ### 03 — Relationships & JOINs
 
-Coming next.
+- Customer JOIN
+- Product JOIN
+- Product → Subcategory → Category JOIN
+- Customer → Geography JOIN
+- Sales Territory JOIN
+- Full analytical dataset
+- Join row-count validation
+- Missing customer/product checks
 
 ## SQL Skills Demonstrated
 
