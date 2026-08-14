@@ -108,7 +108,7 @@ Completed:
 - [x] Database Exploration
 - [x] Data Profiling
 - [x] Relationships & JOINs
-- [ ] Sales Analysis
+- [x] Sales Analysis
 - [ ] Customer Analysis
 - [ ] Product Analysis
 - [ ] Geographic Analysis
