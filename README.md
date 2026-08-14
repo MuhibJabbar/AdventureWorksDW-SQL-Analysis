@@ -80,6 +80,26 @@ Initial profiling of the Internet Sales dataset, including:
 - Join row-count validation
 - Missing customer/product checks
 
+### 04 — Sales Performance Analysis
+
+Analysed overall business performance and sales trends using T-SQL.
+
+Key analysis includes:
+
+- Total revenue and gross profit
+- Gross profit margin
+- Total orders and units sold
+- Average order value
+- Yearly and monthly revenue trends
+- Quarterly sales performance
+- Best and worst performing months
+- Year-over-year (YoY) revenue growth
+- Month-over-month (MoM) growth
+- Cumulative revenue using running totals
+
+**SQL techniques:** Aggregations, `GROUP BY`, date functions, CTEs, `LAG()`, window functions, `NULLIF()`, and running totals.
+
+
 ## SQL Skills Demonstrated
 
 As the project progresses, it will demonstrate:
