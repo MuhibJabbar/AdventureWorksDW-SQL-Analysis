@@ -99,6 +99,23 @@ Key analysis includes:
 
 **SQL techniques:** Aggregations, `GROUP BY`, date functions, CTEs, `LAG()`, window functions, `NULLIF()`, and running totals.
 
+### 05 — Customer Analysis
+
+Analyzed customer purchasing behavior and value using T-SQL.
+
+Key analysis includes:
+
+- Top customers by revenue
+- Customer lifetime value
+- Repeat customer rate
+- Customer ranking
+- Customer value segmentation
+- Revenue by income group
+- Revenue by occupation
+- Customer geography
+- Customer recency
+
+**SQL techniques:** JOINs, CTEs, CASE, RANK(), NTILE(), DATEDIFF(), aggregation and window functions.
 
 ## SQL Skills Demonstrated
 
