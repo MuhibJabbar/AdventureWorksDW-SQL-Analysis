@@ -129,7 +129,7 @@ Completed:
 - [x] Data Profiling
 - [x] Relationships & JOINs
 - [x] Sales Analysis
-- [ ] Customer Analysis
+- [x] Customer Analysis
 - [ ] Product Analysis
 - [ ] Geographic Analysis
 - [ ] Advanced T-SQL
