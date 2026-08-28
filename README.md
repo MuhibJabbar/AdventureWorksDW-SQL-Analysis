@@ -115,6 +115,25 @@ Key analysis includes:
 - Customer geography
 - Customer recency
 
+### 06 — Product Analysis
+
+Analyzed product performance to identify the strongest and weakest
+products, categories, and subcategories.
+
+Key analysis includes:
+
+- Top products by revenue
+- Top products by units sold
+- Most profitable products
+- Product gross profit margins
+- Category and subcategory performance
+- Product ranking within categories
+- Low-performing products
+- Category revenue contribution
+
+**SQL techniques:** Multi-table JOINs, CTEs, RANK(), PARTITION BY,
+window functions and aggregations.
+
 **SQL techniques:** JOINs, CTEs, CASE, RANK(), NTILE(), DATEDIFF(), aggregation and window functions.
 
 ## SQL Skills Demonstrated
@@ -147,7 +166,7 @@ Completed:
 - [x] Relationships & JOINs
 - [x] Sales Analysis
 - [x] Customer Analysis
-- [ ] Product Analysis
+- [x] Product Analysis
 - [ ] Geographic Analysis
 - [ ] Advanced T-SQL
 - [ ] Views & Stored Procedures
