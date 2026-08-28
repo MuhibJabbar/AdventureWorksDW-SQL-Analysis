@@ -19,7 +19,6 @@ The project aims to answer questions such as:
 - How has revenue changed over time?
 - Who are the highest-value customers?
 - Which products and categories generate the most revenue?
-- Which markets and territories perform best?
 - What are the major sales trends?
 - Which customer segments contribute the most revenue?
 
@@ -42,8 +41,6 @@ The project primarily uses the following tables:
 - `dbo.DimProductSubcategory`
 - `dbo.DimProductCategory`
 - `dbo.DimDate`
-- `dbo.DimGeography`
-- `dbo.DimSalesTerritory`
 - `dbo.DimPromotion`
 
 ## Project Structure
@@ -167,7 +164,6 @@ Completed:
 - [x] Sales Analysis
 - [x] Customer Analysis
 - [x] Product Analysis
-- [ ] Geographic Analysis
 - [ ] Advanced T-SQL
 - [ ] Views & Stored Procedures
 - [ ] Performance Optimization
