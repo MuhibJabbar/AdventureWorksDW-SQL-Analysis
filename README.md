@@ -115,6 +115,8 @@ Key analysis includes:
 - Customer geography
 - Customer recency
 
+**SQL techniques:** JOINs, CTEs, CASE, RANK(), NTILE(), DATEDIFF(), aggregation and window functions.
+
 ### 06 — Product Analysis
 
 Analyzed product performance to identify the strongest and weakest
@@ -133,8 +135,6 @@ Key analysis includes:
 
 **SQL techniques:** Multi-table JOINs, CTEs, RANK(), PARTITION BY,
 window functions and aggregations.
-
-**SQL techniques:** JOINs, CTEs, CASE, RANK(), NTILE(), DATEDIFF(), aggregation and window functions.
 
 ## SQL Skills Demonstrated
 
