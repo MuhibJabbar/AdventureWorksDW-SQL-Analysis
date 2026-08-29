@@ -164,7 +164,6 @@ Completed:
 - [x] Sales Analysis
 - [x] Customer Analysis
 - [x] Product Analysis
-- [ ] Advanced T-SQL
 - [ ] Views & Stored Procedures
 - [ ] Performance Optimization
 - [ ] Final Business Insights
