@@ -133,6 +133,24 @@ Key analysis includes:
 **SQL techniques:** Multi-table JOINs, CTEs, RANK(), PARTITION BY,
 window functions and aggregations.
 
+### 07 — Views & Stored Procedures
+
+Created reusable database objects to support reporting and analytical workflows.
+
+Key implementations:
+
+- Sales analysis view
+- Product performance view
+- Customer performance view
+- Parameterized stored procedures
+- Country and yearly sales procedures
+- Date-range reporting
+- Dynamic Top-N product and customer analysis
+- Optional parameters
+- Input validation
+
+**T-SQL techniques:** CREATE OR ALTER VIEW, stored procedures, parameters, IF statements, RETURN, date filtering, aggregations and reusable reporting logic.
+
 ## SQL Skills Demonstrated
 
 As the project progresses, it will demonstrate:
@@ -164,6 +182,6 @@ Completed:
 - [x] Sales Analysis
 - [x] Customer Analysis
 - [x] Product Analysis
-- [ ] Views & Stored Procedures
+- [x] Views & Stored Procedures
 - [ ] Performance Optimization
 - [ ] Final Business Insights
