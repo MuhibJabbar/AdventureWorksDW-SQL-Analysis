@@ -4,7 +4,7 @@
 
 An end-to-end **Data Analytics and Business Intelligence portfolio project** built using **SQL Server, T-SQL, Power Query, Power BI and DAX** on Microsoft's AdventureWorksDW2022 data warehouse.
 
-The objective of this project was not simply to create SQL queries or dashboard visuals. It was to build a complete analytical workflow — from understanding the warehouse and validating the data grain to developing reusable SQL logic, designing a Power BI semantic model, creating DAX measures, validating calculations and communicating business insights through interactive dashboards.
+The objective of this project was not simply to create SQL queries or dashboard visuals. It was to build a complete analytical workflow from understanding the warehouse and validating the data grain to developing reusable SQL logic, designing a Power BI semantic model, creating DAX measures, validating calculations and communicating business insights through interactive dashboards.
 
 ---
 
